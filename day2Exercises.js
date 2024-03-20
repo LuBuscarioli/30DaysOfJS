@@ -1,3 +1,5 @@
+//day02 LINK: https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/02_Day_Data_types/02_day_data_types.md#strings
+
 let challenge = '30 Days Of JavaScript'
 let brands = 'Facebook, Microsoft, nVidia, AMD'
 let senteceOne = 'You cannot end a sentence with because because because is a conjunction'
